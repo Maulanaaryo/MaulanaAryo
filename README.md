@@ -1,8 +1,8 @@
 # Hello!
 
-- Hello, I’m Maulana Aryo Nugroho
+- 🙍‍♂️ Hello, I’m Maulana Aryo Nugroho
 - 👀 I’m interested in Flutter Developer
-- I'm a graduate of informatics
+- 🏆 I'm a graduate of informatics
 
 ### Connect with me
 <a href = "mailto:maulanaaryo151@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
